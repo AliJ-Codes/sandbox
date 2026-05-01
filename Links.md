@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 19:31 IR
+- 🎬 [آموزش ساخت فارم XP با اسپانر عنکبوت │ how to build an XP farm with spider spawner.mp4](https://github.com/AliJ-Codes/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B3%D8%A7%D8%AE%D8%AA%20%D9%81%D8%A7%D8%B1%D9%85%20XP%20%D8%A8%D8%A7%20%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%D8%B1%20%D8%B9%D9%86%DA%A9%D8%A8%D9%88%D8%AA%20%E2%94%82%20how%20to%20build%20an%20XP%20farm%20with%20spider%20spawner.mp4) `39.0MB`
+
+---
+
+
 ### 📅 2026-05-01 19:17 IR
 - 🗜️ [get-cookies.txt-locally_v0.7.2_chrome.zip](https://github.com/AliJ-Codes/sandbox/raw/main/dl/get-cookies.txt-locally_v0.7.2_chrome.zip) `243KB`
 
